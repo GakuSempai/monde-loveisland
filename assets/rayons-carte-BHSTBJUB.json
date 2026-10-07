@@ -4713,7 +4713,7 @@
     "presentoirs": [
      {
       "id": "lion-mode-r1-p1",
-      "colonnes": 3,
+      "colonnes": 2,
       "rangees": 3,
       "produits": [
        {
@@ -4793,19 +4793,6 @@
          "catalogue/t-shirt-je-suis-antillaise-je-ne-ferme-deja-pas.webp"
         ],
         "url": "https://shop.movetan.com/products/t-shirt-je-suis-antillaise-je-ne-ferme-deja-pas"
-       },
-       {
-        "id": "lion-mode-9590908944712",
-        "nom": "Tee-shirt MOVETAN FEMME",
-        "prix": 19.99,
-        "description": "Le tee-shirt Movétan est arrivé sur LoveIsland ! Un classique pour les soirées antillaises et festivals afro-caribeens. Alliant élégance et modernité, ce tee-shirt Movétan est conçu pour affirmer votre style caraibeen. Sa coupe affinée et ses finitions soignées, fait la pièce incontournable de votre garde-robe. Tracez votre propre chemin vestimentaire dans l'ombre ou aux yeux de tous. Ce modèle s’adaptera parfaitement à votre silhouette, apportant une touche de charisme et de caractère à toutes vos tenues. Disponible en noir et blanc, ce tee-shirt antillais sera facile à associer avec le reste",
-        "materiau": "",
-        "forme": "puce",
-        "metal": "or",
-        "images": [
-         "catalogue/tee-shirt-movetan-2-0-femme.webp"
-        ],
-        "url": "https://shop.movetan.com/products/tee-shirt-movetan-2-0-femme"
        }
       ]
      }
@@ -4820,19 +4807,6 @@
       "colonnes": 3,
       "rangees": 3,
       "produits": [
-       {
-        "id": "lion-mode-9590906552648",
-        "nom": "Tee-shirt MOVETAN HOMME",
-        "prix": 19.99,
-        "description": "Le tee-shirt Movétan est arrivé sur LoveIsland ! Un classique pour les soirées antillaises et festivals afro-caribeens. Alliant élégance et modernité, ce tee-shirt Movétan est conçu pour affirmer votre style caraibeen. Sa coupe affinée et ses finitions soignées, fait la pièce incontournable de votre garde-robe. Tracez votre propre chemin vestimentaire dans l'ombre ou aux yeux de tous. Ce modèle s’adaptera parfaitement à votre silhouette, apportant une touche de charisme et de caractère à toutes vos tenues. Disponible en noir et blanc, ce tee-shirt antillais sera facile à associer avec le reste",
-        "materiau": "",
-        "forme": "puce",
-        "metal": "or",
-        "images": [
-         "catalogue/tee-shirt-movetan-2-0-homme.webp"
-        ],
-        "url": "https://shop.movetan.com/products/tee-shirt-movetan-2-0-homme"
-       },
        {
         "id": "lion-mode-10086265618760",
         "nom": "JODLA KOUNIA MANMAN ZOT TOUT - Caribbean T-shirt",
@@ -4910,20 +4884,7 @@
          "catalogue/monokini-totem-maillot-de-ba.webp"
         ],
         "url": "https://shop.movetan.com/products/monokini-totem-maillot-de-ba"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "id": "lion-mode-r3",
-    "nom": "Prestige",
-    "presentoirs": [
-     {
-      "id": "lion-mode-r3-p1",
-      "colonnes": 3,
-      "rangees": 3,
-      "produits": [
+       },
        {
         "id": "lion-mode-9538742944072",
         "nom": "Bikini 2 pièces imprimé léopard",
@@ -4936,7 +4897,20 @@
          "catalogue/bikini-2-pi-ces-imprim-l-opar.webp"
         ],
         "url": "https://shop.movetan.com/products/bikini-2-pi-ces-imprim-l-opar"
-       },
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "lion-mode-r3",
+    "nom": "Prestige",
+    "presentoirs": [
+     {
+      "id": "lion-mode-r3-p1",
+      "colonnes": 2,
+      "rangees": 3,
+      "produits": [
        {
         "id": "lion-mode-9538704179528",
         "nom": "Bikini Couleur Unie avec Bijoux - Maillot de Bain 2 pièces",
@@ -5172,19 +5146,6 @@
          "catalogue/sac-cabas-crochet-a-fleurs-marguerittes-totebag-plage.webp"
         ],
         "url": "https://shop.movetan.com/products/sac-cabas-crochet-a-fleurs-marguerittes-totebag-plage"
-       },
-       {
-        "id": "lion-accessoires-10086265749832",
-        "nom": "Bonnet Intérieur en Satin - Movétan",
-        "prix": 24.99,
-        "description": "Sorti tout droit du fond de la Mer des Caraïbes, ce bonnet charismatique vous aidera à braver le froid hors de votre île. On a mis du satin à l'intérieur pour protéger vos cheveux et garder votre belle tête fraîche en toute circonstance. Il s'adapte aux hommes et aux femmes de tout âge. Pensez à le laver au moins une fois tous les 10 jours. Caractéristiques : Intérieur 100% satin acrylique · Extérieur 97% polyester + 3% spandex",
-        "materiau": "",
-        "forme": "puce",
-        "metal": "or",
-        "images": [
-         "catalogue/bonnet-interieur-en-satin-movetan.webp"
-        ],
-        "url": "https://shop.movetan.com/products/bonnet-interieur-en-satin-movetan"
        }
       ]
      }
@@ -5200,17 +5161,17 @@
       "rangees": 3,
       "produits": [
        {
-        "id": "lion-accessoires-9538719580488",
-        "nom": "MOVÉTAN - Chapeau à corde - Couvre chef FWI",
-        "prix": 29.99,
-        "description": "Nulle besoin de le décrire, le chapeau à corde Movétan est un chef d'oeuvre créole, issu des moeurs locaux. Ce prestigieux chapeau vous confère la puissance de vos ancêtres, vous donne le chakra du chabin peu importe votre couleur de peau. Devenez maître de votre destin. Porté d'abord par les hommes de chantiers, les coupeurs d'herbes, les électriciens les chasseurs, les pêcheurs et les plagistes, ce chapeau est devenu un accéssoire de mode aux antilles et dans l'océan Indien, équipez-vous en toute saison, le soleil ne joue pas. Disponible en 3 coloris pour le moment vous pourrez apprécier les",
+        "id": "lion-accessoires-10086265749832",
+        "nom": "Bonnet Intérieur en Satin - Movétan",
+        "prix": 24.99,
+        "description": "Sorti tout droit du fond de la Mer des Caraïbes, ce bonnet charismatique vous aidera à braver le froid hors de votre île. On a mis du satin à l'intérieur pour protéger vos cheveux et garder votre belle tête fraîche en toute circonstance. Il s'adapte aux hommes et aux femmes de tout âge. Pensez à le laver au moins une fois tous les 10 jours. Caractéristiques : Intérieur 100% satin acrylique · Extérieur 97% polyester + 3% spandex",
         "materiau": "",
         "forme": "puce",
         "metal": "or",
         "images": [
-         "catalogue/mov-tan-chapeau-corde-co.webp"
+         "catalogue/bonnet-interieur-en-satin-movetan.webp"
         ],
-        "url": "https://shop.movetan.com/products/mov-tan-chapeau-corde-co"
+        "url": "https://shop.movetan.com/products/bonnet-interieur-en-satin-movetan"
        },
        {
         "id": "lion-accessoires-10083408019784",
